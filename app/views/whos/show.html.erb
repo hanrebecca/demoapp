@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Are:</strong>
+  <%= @who.are %>
+</p>
+
+<p>
+  <strong>You:</strong>
+  <%= @who.you %>
+</p>
+
+<p>
+  <strong>Age:</strong>
+  <%= @who.age %>
+</p>
+
+<%= link_to 'Edit', edit_who_path(@who) %> |
+<%= link_to 'Back', whos_path %>

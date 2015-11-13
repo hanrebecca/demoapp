@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  surname: MyString
+  Looks: 1
+  Brains: 1
+  Diversity: 1
+  Overall: MyString
+
+two:
+  name: MyString
+  surname: MyString
+  Looks: 1
+  Brains: 1
+  Diversity: 1
+  Overall: MyString
